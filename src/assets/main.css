@@ -1,0 +1,18 @@
+.jumbo {
+  width: 100%;
+  height: 40vh;
+  background-image: url(../img/meadow-landscape-with-mountain-background_1308-58907.jpg);
+  font-display: flex;
+  flex-flow: column;
+  text-align: center;
+  color: red;
+}
+
+button {
+  padding: 10px 10px;
+  border-radius: 5px 5px 5px 5px;
+  margin-top: 20px;
+  background-color: blueviolet;
+  color: white;
+  border: none;
+}
